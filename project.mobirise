@@ -1008,6 +1008,9 @@
             ".mbr-section-subtitle": {
               "text-align": "center",
               "color": "#232323"
+            },
+            ".mbr-text,.mbr-section-btn": {
+              "color": "#767676"
             }
           },
           "_name": "features20",
