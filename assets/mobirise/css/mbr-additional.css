@@ -1000,8 +1000,8 @@ a:hover {
   color: #ced6d8;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  opacity: 0 !important;
 }
 #scrollToTop a i:before {
   content: '';
@@ -2182,7 +2182,7 @@ body {
   height: 4em;
   line-height: 4em;
   border-radius: 50%;
-  background-color: #232323;
+  background-color: #f21736;
   width: 4em;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
